@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
-<h3 align="center">A newbie but passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
