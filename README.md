@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Linkedin or yilmazsmertcan@gmail.com**
+- 📫 How to reach me: **Linkedin or yilmazsmertcan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
