@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mertcan and I'm a frontend developer, from Istanbul</p>
+<h4 align="left">My name is Mertcan and I'm a frontend developer, from Istanbul</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next.js and Typescript</p>
+<h4 align="left">📚 I'm currently learning Next.js and Typescript</h4>
 
 ###
 
