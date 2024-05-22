@@ -6,13 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<h4 align="left">📚 I'm currently learning Next.js</h4>
-
-###
 
 <h2 align="left">Contact with me</h2>
 
